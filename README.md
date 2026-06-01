@@ -11,7 +11,7 @@ Hardware: Handwired, RP2040
 
 ## Build
 
-O. Prepare Vial build environment.
+0. Prepare Vial build environment.
 
 1. cd vial-qmk/keyboards/alko
 
