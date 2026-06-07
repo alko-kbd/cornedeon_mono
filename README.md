@@ -8,6 +8,7 @@ Web Site: [cornedeon.ru](https://cornedeon.ru)
 
 Hardware: Handwired, RP2040
 
+![Cornedeon Mono](pics/mono.jpg)
 
 ## Build
 
